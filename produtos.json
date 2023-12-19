@@ -1,0 +1,16 @@
+﻿[
+  {
+    "id": 1,
+    "nome": "produto1",
+    "preco": "444.4€",
+    "descrição": "Some quick example text to build on the card title and make up the bulk of the card's content"
+  },
+
+  {
+    "id": 2,
+    "nome": "produto2",
+    "preco": "555.5€",
+    "descrição": "Some quick example text to build on the card title and make up the bulk of the card's content"
+  }
+]
+
